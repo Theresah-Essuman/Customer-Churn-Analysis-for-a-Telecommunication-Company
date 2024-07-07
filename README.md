@@ -70,6 +70,3 @@ This project is licensed under the MIT License.
 
 ## Acknowledgments
 - Azubi Africa and Team
-- Data sources
-- GitHub repository for database connection examples
-- OneDrive link for testing data
