@@ -65,6 +65,8 @@ The project follows the CRISP-DM framework:
 2. Follow the instructions in the Jupyter notebook.
 3. Ensure you have the required libraries installed.
 
+For a comprehensive understanding of the project, it is recommended to follow along with the Jupyter Notebook and refer to report.
+
 ## License
 This project is licensed under the MIT License.
 
